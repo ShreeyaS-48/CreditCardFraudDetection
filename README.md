@@ -15,13 +15,12 @@ TensorFlow / Keras
 Google Colab
 
 ## 📊 Dataset
-The dataset contains 284,807 transactions with 31 features:
-V1–V28: PCA components of original features (anonymized)
-Amount: Transaction amount
-Time: Time elapsed since first transaction
-Class: Target variable (0 = Non-Fraud, 1 = Fraud)
-Link to the dataset:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+- The dataset contains 284,807 transactions with 31 features:
+- V1–V28: PCA components of original features (anonymized)
+- Amount: Transaction amount
+- Time: Time elapsed since first transaction
+- Class: Target variable (0 = Non-Fraud, 1 = Fraud)
+- Link to the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 🏗️ Project Workflow
 ### Data Preprocessing
